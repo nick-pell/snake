@@ -1,1 +1,1 @@
-# snake
+Some challenges I encountered was the snake logic/movement, and the addition of some of the difficulty options. To help solve these challenges, I researched online and found helpful videos. Although I did not fully complete my initial vision, I learned a lot about pygame/game development in general, and I sharpened my file reading/writing skills. Overall, I enjoyed this project and believe that I learned a lot.

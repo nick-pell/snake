@@ -18,15 +18,15 @@ light_red = (150,0,0)
 light_green = (0,150,0)
 light_blue = (0,0,150)
 
-# leader = open('leaderboard.txt','w')
-# leader.write(str(1))
-# leader.write('\n')
-# leader.close()
+leader = open('leaderboard.txt','w')
+leader.write(str(1))
+leader.write('\n')
+leader.close()
 
-# leaderNames = open('leaderboardNames.txt','w')
-# leaderNames.write('User')
-# leaderNames.write('\n')
-# leaderNames.close()
+leaderNames = open('leaderboardNames.txt','w')
+leaderNames.write('User')
+leaderNames.write('\n')
+leaderNames.close()
 
 food_color = white
 snake_color = black
